@@ -1,7 +1,8 @@
-### Borges Costta, ao seu dispor... 👋
+### Borges Costta, ao seu dispor ... 👋
 
 - 🌱 Estudando CSS3, HTML5 e JavaScript
 - 😄 Pronouns: ele/dele
+- 🙋‍♂️  Interesse em PHP e Python
 
 <div>
   <a href="https://github.com/pequenoborges">
